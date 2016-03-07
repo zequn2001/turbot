@@ -1,0 +1,1 @@
+A proof of concept of a botnet without a single point of failure over HTTP protocol.
